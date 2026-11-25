@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "한 끼 요리",
+    "description": "든든하게 차려 먹는 집밥",
+    "img_src": "https://raw.githubusercontent.com/apffkxhsls/mobile-programming-data/main/kimchi_fried_rice.jpg",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "김치볶음밥",
+        "img_src": "https://raw.githubusercontent.com/apffkxhsls/mobile-programming-data/main/kimchi_fried_rice.jpg",
+        "ingredients": "밥 1공기, 김치 반 컵, 대파, 식용유, 달걀 1개",
+        "instructions": "1. 대파와 김치를 볶는다.\n2. 밥을 넣고 섞어가며 볶는다.\n3. 달걀 프라이를 올린다."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "간식",
+    "description": "출출할 때 간단하게 한 입",
+    "img_src": "https://raw.githubusercontent.com/apffkxhsls/mobile-programming-data/main/french_toast.jpg",
+    "recipes": [
+      {
+        "id": 2,
+        "name": "프렌치토스트",
+        "img_src": "https://raw.githubusercontent.com/apffkxhsls/mobile-programming-data/main/french_toast.jpg",
+        "ingredients": "식빵 2장, 달걀 1개, 우유 50mL, 설탕 1큰술, 버터",
+        "instructions": "1. 달걀, 우유, 설탕을 섞는다.\n2. 식빵 양면을 달걀물에 적신다.\n3. 버터를 녹인 팬에서 양면을 노릇하게 굽는다."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "디저트",
+    "description": "식사 끝에 즐기는 달콤한 한 입",
+    "img_src": "https://raw.githubusercontent.com/apffkxhsls/mobile-programming-data/main/egg_tart.jpg",
+    "recipes": [
+      {
+        "id": 3,
+        "name": "에그타르트",
+        "img_src": "https://raw.githubusercontent.com/apffkxhsls/mobile-programming-data/main/egg_tart.jpg",
+        "ingredients": "냉동 페이스트리 생지, 달걀노른자 2개, 우유 100mL, 생크림 50mL, 설탕 30g",
+        "instructions": "1. 페이스트리 생지를 타르트 틀에 깐다.\n2. 노른자, 우유, 생크림, 설탕을 섞고 체에 거른다.\n3. 틀에 달걀물을 붓고 200도 오븐에서 약 20분 굽는다."
+      }
+    ]
+  }
+]
